@@ -4,6 +4,8 @@
 
 **Note:** Codes can contain error, feel free to contribute :smiley:
 
+# :fast_forward: [Click me :smile:](https://github.com/IamLizu/cpp-practice/wiki)
+
 ### Contributing
 
 1. Fork it!
