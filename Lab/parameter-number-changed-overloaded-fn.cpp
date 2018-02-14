@@ -1,10 +1,11 @@
+
 #include<iostream>
 
 using namespace std;
 
-void show(int a,double b)
+void show(int a,double b,char c)
 {
-    cout<<a<<" "<<b<<endl;
+    cout<<a<<" "<<b<<" "<<c<<endl;
 }
 void show(double a, int b)
 {
@@ -16,7 +17,7 @@ string show(string b)
 }
 int main()
 {
-    show(0,5.9);
+    show(0,5.9,'@');
     show(0.0,5);
     cout<<show("Nothing ('_-)")<<endl;
 
