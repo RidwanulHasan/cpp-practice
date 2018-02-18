@@ -4,6 +4,7 @@ using namespace std;
 
 class Massage
 {
+private:
     string text;
 public:
     void setMassage(string msg)
